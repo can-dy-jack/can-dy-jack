@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 
 ![can-dy-jack's github stats](https://github-readme-stats.vercel.app/api?username=can-dy-jack&count_private=true&show_icons=true&&bg_color=30,165880,169c5a&title_color=fff&text_color=fff)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=can-dy-jack&theme=vue&layout=compact)
+
 #### 仓库置顶：
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=can-dy-jack&repo=ODS&theme=vue-dark)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=can-dy-jack&repo=can-dy-jack.github.io&theme=vue-dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=can-dy-jack&theme=vue&layout=compact)
-
