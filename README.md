@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![can-dy-jack's github stats](https://github-readme-stats.vercel.app/api?username=can-dy-jack&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 仓库置顶：
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=can-dy-jack&repo=ODS)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=can-dy-jack&repo=can-dy-jack.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=can-dy-jack)](https://github.com/anuraghazra/github-readme-stats)
