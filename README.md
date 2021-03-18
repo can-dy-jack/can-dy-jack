@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=can-dy-jack&theme=vue&layout=compact)
 
 #### 仓库置顶：
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=can-dy-jack&repo=ODS&theme=vue-dark) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=can-dy-jack&repo=can-dy-jack.github.io&theme=vue-dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=can-dy-jack&repo=css&theme=vue-dark) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=can-dy-jack&repo=can-dy-jack.github.io&theme=vue-dark)
