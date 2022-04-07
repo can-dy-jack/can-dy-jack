@@ -1,27 +1,19 @@
 ### Hi there,I`m 陈科衡.👋
 
-<!--
-**can-dy-jack/can-dy-jack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
+<img src="https://github-readme-stats.vercel.app/api?username=can-dy-jack&count_private=true&locale=cn&show_icons=true&&bg_color=dfffef&title_color=0969db&text_color=333333&icon_color=09d95b&hide_border=true" alt="can-dy-jack's github stats" align="right">
 
 - 🔭 I’m currently working on shou university
-- 🌱 I’m currently learning css/js...
+- 🌱 I’m currently learning css/js/vue...
 - 🤔 I’m looking for help with Website development
 - 📫 My eamil: jjack_chen3@163.com
-- 👍Dynamically generated stats for github readmes：https://github.com/anuraghazra/github-readme-stats
-<!--
-- 💬 Ask me about ...
-- 👯 I’m looking to collaborate on ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 👍Dynamically generated stats for github readmes：https://github.com/anuraghazra/github-readme-stats -->
+- 💬 I'm glay to talk with you.
+- 🗨️ QQ: 269636915
+- ⚡ WeChat: (+86)15856941255
 
-![can-dy-jack's github stats](https://github-readme-stats.vercel.app/api?username=can-dy-jack&count_private=true&show_icons=true&&bg_color=30,165880,169c5a&title_color=fff&text_color=fff)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=can-dy-jack&theme=vue&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=can-dy-jack&theme=swift&layout=compact)
 
 #### 我的项目：
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=can-dy-jack&repo=hexo-theme-delicate)
