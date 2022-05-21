@@ -17,3 +17,6 @@
 
 #### 我的项目：
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=can-dy-jack&repo=hexo-theme-delicate)
+
+
+![Metrics](https://metrics.lecoq.io/can-dy-jack?template=classic&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
