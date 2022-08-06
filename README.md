@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on shou university
 - 🌱 I’m currently learning css/js/vue...
 - 🤔 I’m looking for help with Website development
-- 📫 My eamil: jjack_chen3@163.com
+- 📫 My email: jjack_chen3@163.com
 <!-- - 👍Dynamically generated stats for github readmes：https://github.com/anuraghazra/github-readme-stats -->
 - 💬 I'm glay to talk with you.
 - 🗨️ QQ: 269636915
