@@ -3,15 +3,17 @@
 </div>
 
 ## Hi there,I`m 陈科衡 👋
-> I am a Frontend developer 😉
 
+![profile](./profile.png)
 
+> I'm Self-taught Front-end developer from China. 😉
 
-- 🔭 I’m currently at SHOU school.
-- 🌱 I’m currently learning frontend
-- 📫 My email: jjack_chen3@163.com | kartjim@163.com
-- 🗨️ QQ: 269636915
-- ⚡ WeChat: kartjim
+- :low_brightness: I’m currently Learning GraphQl, Next.js and Typescript.
+- :golf: I’m also currently learning Rust.
+- :speech_balloon: Ask me about anything. I will try to help you as much as I can.
+- :eyes: Welcome to invite me to do some Front-end projects.
+- :page_facing_up: If you have a job invitation, please check this [resume](./resume.pdf)
+
 
 ## Tech & Tools Preference
 
