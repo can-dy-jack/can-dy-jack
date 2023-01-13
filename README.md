@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./2023newyear.png" alt="2023newyear.png">
+</div>
+
+<div align="center">
   <img src="./typing.svg" alt="https://git.io/typing-svg">
 </div>
 
