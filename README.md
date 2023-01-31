@@ -54,14 +54,39 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|---|:---:|:---: |:---:|
 | links | [:globe_with_meridians:][website] | [<img align="left" alt="kartjim-react-blog" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react-blog] | kartjim | 2696369915 | jack_chen3@163.com <br /> kartjim@163.com <br /> kartjimc@gmail.com | [<img align="left" alt="kartjim-github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] | [<img align="left" alt="kartjim-leetcode-cn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][LeetCode] | [CSDN][csdn] | [<img align="left" alt="kartjim-bilibili" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />][bilibili] |
 
-
-
 ---
 <div align="center">
   <img 
-       src="https://github-readme-stars-kartjim-90day-drm9rno6i.vercel.app/api?username=can-dy-jack&count_private=true&theme=react&show_icons=true" 
-       alt="can-dy-jack's github stats" />
+    src="https://github-readme-stars-kartjim-90day-drm9rno6i.vercel.app/api?username=can-dy-jack&count_private=true&theme=react&show_icons=true" 
+    alt="can-dy-jack's github stats" />
 </div>
+
+<hr/>
+
+<div align="center">
+  <img 
+    src="./svg/MultiLanguage.svg" 
+    alt="MultiLanguage.svg" />
+  <img 
+    src="./svg/Joined2020.svg" 
+    alt="Joined2020.svg" />
+  <br />
+  <img 
+    src="./svg/Repositories.svg" 
+    alt="Repositories.svg" />
+  <img 
+    src="./svg/commit.svg" 
+    alt="commit.svg" />
+  <br />
+  <img 
+    src="./svg/issues.svg" 
+    alt="issues.svg" />
+  <img 
+    src="./svg/pr.svg" 
+    alt="pr.svg" />
+  <br />
+</div>
+
 
 [website]: https://kartjim.cn
 [react-blog]: https://kartjim.cn/blog
