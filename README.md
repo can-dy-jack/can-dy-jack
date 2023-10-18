@@ -42,7 +42,7 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 ### My top languages
-<img src="https://github-readme-stars-kartjim-90day-drm9rno6i.vercel.app/api/top-langs/?username=can-dy-jack&theme=transparent&layout=compact&hide_border=true"  alt="can-dy-jack's github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=can-dy-jack&theme=transparent&layout=compact&hide_border=true" alt="can-dy-jack's github stats" />
 
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-Python-244C6F?style=flat-square&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-rust-ffcc40?style=flat-square&logo=rust&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat-square&logo=c%2B%2B&logoColor=ffffff"> 
@@ -57,7 +57,7 @@
 ## GitHub data ![github-profile-views-counter](https://komarev.com/ghpvc/?username=can-dy-jack&style=for-the-badge&color=47848f)
 <div align="center">
   <img 
-    src="https://github-readme-stars-kartjim-90day-drm9rno6i.vercel.app/api?username=can-dy-jack&count_private=true&theme=react&show_icons=true" 
+    src="https://github-readme-stats.vercel.app/api?username=can-dy-jack&count_private=true&theme=react&show_icons=true" 
     alt="can-dy-jack's github stats" />
 </div>
 
