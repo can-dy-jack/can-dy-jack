@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="./2023newyear.png" alt="2023newyear.png">
-</div>
-
-<div align="center">
   <img src="./typing.svg" alt="https://git.io/typing-svg">
 </div>
 
@@ -16,7 +12,7 @@
 - :golf: I’m also currently learning Rust.
 - :speech_balloon: Ask me about anything. I will try to help you as much as I can.
 - :eyes: Welcome to invite me to do some Front-end projects.
-- :page_facing_up: If you have a job invitation, please check this [resume (Chinese 中文简历)](./resume.pdf)
+<!-- - :page_facing_up: If you have a job invitation, please check this[resume (Chinese 中文简历)](./resume.pdf) -->
 
 
 ## Tech & Tools Preference
