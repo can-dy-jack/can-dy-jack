@@ -2,7 +2,7 @@
   <img src="./typing.svg" alt="https://git.io/typing-svg">
 </div>
 
-## Hi there,I`m 陈科衡 👋
+## Hi there,I`m kart jim 👋
 
 ![profile](./profile.png)
 
