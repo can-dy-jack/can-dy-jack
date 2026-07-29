@@ -29,16 +29,10 @@
 <img src="https://img.shields.io/badge/-claudecode-D97757?style=for-the-badge&logo=claude&logoColor=fff"> 
 <img src="http://img.shields.io/badge/-cursor-000?style=for-the-badge&logo=cursor&logoColor=FFFFFF"> 
 
-## :earth_asia: Find me ?
-
-| | blog | React blog | 微信号 | QQ | Email | leetcode-cn | Bilibili |
-|:---:|:---:|:---:|:---:|:---:|:---:|---|:---: |
-| links | [:globe_with_meridians:][website] | [<img align="left" alt="kartjim-react-blog" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react-blog] | kartjim | 2696369915 | jack_chen3@163.com <br /> kartjim@163.com <br /> kartjimc@gmail.com | [<img align="left" alt="kartjim-leetcode-cn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][LeetCode] | [<img align="left" alt="kartjim-bilibili" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />][bilibili] |
-
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kartjim) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kartjim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kartjim2) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/kartjim) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=can-dy-jack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=can-dy-jack&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=can-dy-jack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=can-dy-jack&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=can-dy-jack&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=can-dy-jack&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
