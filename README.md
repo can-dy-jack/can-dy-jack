@@ -33,6 +33,10 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kartjim) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kartjim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kartjim2) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/kartjim) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=can-dy-jack&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=can-dy-jack&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=can-dy-jack&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=can-dy-jack&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+
+![](https://streak-stats.demolab.com/?user=can-dy-jack&hide_border=false)
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=can-dy-jack&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
